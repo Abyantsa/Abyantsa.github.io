@@ -6657,7 +6657,7 @@ textarea.form-control-lg {
 
 .text-bg-primary {
   color: #fff !important;
-  background-color: RGBA(200, 70, 58, var(--bs-bg-opacity, 1)) !important;
+  background-color: RGBA(244, 98, 58, var(--bs-bg-opacity, 1)) !important;
 }
 
 .text-bg-secondary {
@@ -10929,7 +10929,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background-image: url("assets/img/coralisland.png");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://i.imgur.com/Xs3v4tc.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
